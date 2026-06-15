@@ -1,6 +1,6 @@
 .env
 /__pycache__
-/secret
+/.secret
 /dvenv
-copy.txt
 user_location.db
+tasks_completed.db
