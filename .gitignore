@@ -1,0 +1,6 @@
+.env
+/__pycache__
+/secret
+/dvenv
+copy.txt
+user_location.db
