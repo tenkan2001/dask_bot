@@ -56,6 +56,6 @@ Start the bot
 
 There you go your bot is now online and ready to serve. Once it's started you should be able to log in to your google account, and see the bot online on your server. You can keep it running 24/7 or turn it on whenever you want, it's up to you! Add more stuff if you want, remove stuff if you want, it's all yours! 
 
-This bot is still in early access. I'm not done yet. Gonna update it more.
+_This bot was made for a school project_.
 
 <strong>PS. DON'T SHARE YOUR TOKENS WITH PEOPLE YOU DONT TRUST !!! </strong>
